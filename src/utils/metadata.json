@@ -1,0 +1,12 @@
+{
+	"/": {
+		"title": "Something else",
+		"description": "Sport Analysis platfor",
+		"twitter_image": ""
+	},
+	"/login": { "title": "Login Page", "description": "" },
+	"": {
+		"title": "404 Page not found",
+		"description": "Oops. Looks like this page doesn't exists"
+	}
+}
